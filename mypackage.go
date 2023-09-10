@@ -1,5 +1,5 @@
 package gotest
 
-func Add(a, b int) int {
+func Add1(a, b int) int {
 	return a + b
 }
