@@ -1,3 +1,3 @@
-module github.com/oldspacemanx/gotest
+module gotest
 
 go 1.20
